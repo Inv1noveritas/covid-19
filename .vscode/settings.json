@@ -8,7 +8,7 @@
       "username": "_SYSTEM",
       "password": "SYS",
       "ns": "USER",
-      "active": true,
+      "active": false,
       "docker-compose": {
         "service": "iris",
         "internalPort": 52773
