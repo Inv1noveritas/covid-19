@@ -1,3 +1,6 @@
+Доказательство, что я смогла немного что то сделать:
+![Снимок](https://github.com/Inv1noveritas/covid-19/assets/65250171/dbc8deb5-6956-443b-ac38-ec9112c0329a)
+
 # Covid-19 analytics
 Try with https://covid-19.demo.community.intersystems.com/dsw/index.html#!/USER
 This is an [interactive dashboard](https://covid-19.demo.community.intersystems.com/dsw/index.html#!/USER/Covid19/Countries.dashboard    ) on the analytics for covid-19 pandemia.
